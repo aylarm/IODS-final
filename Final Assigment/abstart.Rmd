@@ -1,0 +1,11 @@
+---
+title: "abstract"
+author: "Aylar"
+date: "December 18, 2017"
+output: html_document
+---
+
+
+## abstarct
+
+This is the final assignment for open data course, where data from human development programme will be used. Focus of this assignment will be on expected years of education and I will perform LDA analysis to find out what are the variables that determine the level of education.In addition, LDA results with target variable expected years of education will be compared to LDA with clusters as target variables. Both find mother's mortality rate being in significant role and life expectancy and mean yeras of education in additional place to determine the expected years of education.
